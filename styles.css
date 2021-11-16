@@ -1,6 +1,7 @@
 body {
   display: block;
   margin: 8px;
+  background-color: rgb(170, 231, 233);
 }
 #mainHeading {
   color: red;
@@ -13,4 +14,17 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
+}
+h1,
+h2,
+p,
+ul,
+li {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+h2 {
+  color: rgb(11, 82, 139);
 }
