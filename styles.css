@@ -1,6 +1,7 @@
 body {
   display: block;
   margin: 8px;
+  padding: 10px;
   background-color: rgb(170, 231, 233);
 }
 #mainHeading {
